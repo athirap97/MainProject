@@ -30,8 +30,10 @@ To run on website, steps are
 5. Try the bot
 
 The files contain :
-report : all written content regarding project
-output : all screenshots of project output
-DNN_chatbot : chatbot training and backend code (intermediate files not included)
-servers : server and client files (intermediate files not included)
-virtual_assistant : complete project files along with the last checkpoint saved (intermediate files also included)
+
+1. report : all written content regarding project
+2. output : all screenshots of project output
+3. DNN_chatbot : chatbot training and backend code (intermediate files not included)
+4. servers : server and client files (intermediate files not included)
+5. virtual_assistant : complete project files along with the last checkpoint saved (intermediate files also included)
+6. presentation : all the presentations that were prepared during the development of the project 
