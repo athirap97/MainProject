@@ -1,10 +1,14 @@
 # MainProject
 Final year project
 
+Whenever faced with unchartered territories humans have a tendency to get anxious and it is but natural and even more so in the case of students who are about to join a new course. They are always filled with endless queries and mostly all of them are similar across people. Rather than flooding a single person with all those and to answer them over and over again, it is apt to segregate usual common queries and their solutions at a single place which is easily accessible by all. In this project the detailed design of a chatbot is given which provides an efficient and accurate answer for any query based on the data set of FAQs. This chatbot can be used by Sree Chitra Thirunal College Of Engineering to answer frequently asked questions to curious students in an interactive fashion.
+
+Technology :
 Python3 - Version 3.6.5 was used to carry out the project.
 Flask - The version used in implementing the project is 1.0.2
 Chat Interface - The chatbot is to be embedded in the official website of the college which is www.sctce.ac.in
 
+Working :
 Download all files
 Save engine.py, SCTdataset.json, test_response.py, trainer.py in a file named DNN_chatbot
 Save chatbot_config.py, new.py, server.py, server_thread.py,test_client.py in a file named servers
