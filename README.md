@@ -24,3 +24,10 @@ To run on website, steps are
 3. Change directory to servers and run using command : python3 new.py
 4. The IP obtained has to be copy pasted on to any browser and press enter
 5. Try the bot
+
+The files contain :
+report : all written content regarding project
+output : all screenshots of project output
+DNN_chatbot : chatbot training and backend code (intermediate files not included)
+servers : server and client files (intermediate files not included)
+virtual_assistant : complete project files along with the last checkpoint saved (intermediate files also included)
